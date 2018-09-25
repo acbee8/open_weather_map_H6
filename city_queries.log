@@ -1,0 +1,1648 @@
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=rikitea%2Cpf&units=imperial HTTP/1.1" 200 479
+INFO:root: City Info: 0, rikitea, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=svetlaya%2Cru&units=imperial HTTP/1.1" 200 464
+INFO:root: City Info: 1, svetlaya, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=parker%2Cus&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 2, parker, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=jamestown%2Csh&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 3, jamestown, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ocara%2Cbr&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 4, ocara, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ribeira+grande%2Cpt&units=imperial HTTP/1.1" 200 443
+INFO:root: City Info: 5, ribeira grande, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=upernavik%2Cgl&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 6, upernavik, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mar+del+plata%2Car&units=imperial HTTP/1.1" 200 480
+INFO:root: City Info: 7, mar del plata, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=puerto+ayora%2Cec&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 8, puerto ayora, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=barrow%2Cus&units=imperial HTTP/1.1" 200 440
+INFO:root: City Info: 9, barrow, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=imbituba%2Cbr&units=imperial HTTP/1.1" 200 442
+INFO:root: City Info: 10, imbituba, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bereznik%2Cru&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 11, bereznik, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=saint-philippe%2Cre&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 12, saint-philippe, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=albany%2Cau&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 13, albany, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=pacifica%2Cus&units=imperial HTTP/1.1" 200 437
+INFO:root: City Info: 14, pacifica, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tabuk%2Csa&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 15, tabuk, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=fortuna%2Cus&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 16, fortuna, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=salalah%2Com&units=imperial HTTP/1.1" 200 430
+INFO:root: City Info: 17, salalah, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mataura%2Cpf&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=muscat%2Com&units=imperial HTTP/1.1" 200 428
+INFO:root: City Info: 18, muscat, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bluff%2Cnz&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 19, bluff, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=lagoa%2Cpt&units=imperial HTTP/1.1" 200 437
+INFO:root: City Info: 20, lagoa, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hilo%2Cus&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 21, hilo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tuatapere%2Cnz&units=imperial HTTP/1.1" 200 473
+INFO:root: City Info: 22, tuatapere, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=taolanaro%2Cmg&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ushuaia%2Car&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 23, ushuaia, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=cherskiy%2Cru&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 24, cherskiy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bredasdorp%2Cza&units=imperial HTTP/1.1" 200 416
+INFO:root: City Info: 25, bredasdorp, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=vardo%2Cno&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 26, vardo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bambous+virieux%2Cmu&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 27, bambous virieux, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=qaanaaq%2Cgl&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 28, qaanaaq, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=norman+wells%2Cca&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 29, norman wells, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mikhaylovka%2Ckz&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 30, mikhaylovka, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=arraial+do+cabo%2Cbr&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 31, arraial do cabo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=shizunai%2Cjp&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 32, shizunai, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=karratha%2Cau&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 33, karratha, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=rundu%2Cna&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 34, rundu, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=cape+town%2Cza&units=imperial HTTP/1.1" 200 437
+INFO:root: City Info: 35, cape town, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=punta+arenas%2Ccl&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 36, punta arenas, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=chuy%2Cuy&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 37, chuy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=conde%2Cbr&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 38, conde, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=eydhafushi%2Cmv&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 39, eydhafushi, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=busselton%2Cau&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 40, busselton, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=san+angelo%2Cus&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 41, san angelo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=port+hardy%2Cca&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 42, port hardy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=baksan%2Cru&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 43, baksan, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=san+vicente%2Car&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 44, san vicente, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=portland%2Cau&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 45, portland, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=liverpool%2Cca&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 46, liverpool, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=dikson%2Cru&units=imperial HTTP/1.1" 200 473
+INFO:root: City Info: 47, dikson, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=atuona%2Cpf&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 48, atuona, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=constitucion%2Cmx&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 49, constitucion, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=leshukonskoye%2Cru&units=imperial HTTP/1.1" 200 481
+INFO:root: City Info: 50, leshukonskoye, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=port+alfred%2Cza&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 51, port alfred, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=coquimbo%2Ccl&units=imperial HTTP/1.1" 200 443
+INFO:root: City Info: 52, coquimbo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tsihombe%2Cmg&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=areosa%2Cpt&units=imperial HTTP/1.1" 200 438
+INFO:root: City Info: 53, areosa, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=morant+bay%2Cjm&units=imperial HTTP/1.1" 200 447
+INFO:root: City Info: 54, morant bay, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=iskateley%2Cru&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 55, iskateley, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=nikolskoye%2Cru&units=imperial HTTP/1.1" 200 441
+INFO:root: City Info: 56, nikolskoye, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hofn%2Cis&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 57, hofn, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=calama%2Ccl&units=imperial HTTP/1.1" 200 440
+INFO:root: City Info: 58, calama, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=esperance%2Cau&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 59, esperance, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=luganville%2Cvu&units=imperial HTTP/1.1" 200 467
+INFO:root: City Info: 60, luganville, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mount+gambier%2Cau&units=imperial HTTP/1.1" 200 469
+INFO:root: City Info: 61, mount gambier, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kaitangata%2Cnz&units=imperial HTTP/1.1" 200 480
+INFO:root: City Info: 62, kaitangata, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=cidreira%2Cbr&units=imperial HTTP/1.1" 200 464
+INFO:root: City Info: 63, cidreira, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hobart%2Cau&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 64, hobart, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=butaritari%2Cki&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 65, butaritari, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=grande-riviere%2Cca&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=marcona%2Cpe&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=amderma%2Cru&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=lavrentiya%2Cru&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 66, lavrentiya, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=lima%2Cpe&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 67, lima, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=thompson%2Cca&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 68, thompson, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=urumqi%2Ccn&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=brae%2Cgb&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 69, brae, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=marzuq%2Cly&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=halalo%2Cwf&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=yerofey+pavlovich%2Cru&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 70, yerofey pavlovich, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=khatanga%2Cru&units=imperial HTTP/1.1" 200 474
+INFO:root: City Info: 71, khatanga, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=saskylakh%2Cru&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 72, saskylakh, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=nome%2Cus&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 73, nome, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=laurentides%2Cca&units=imperial HTTP/1.1" 200 479
+INFO:root: City Info: 74, laurentides, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=itaituba%2Cbr&units=imperial HTTP/1.1" 200 445
+INFO:root: City Info: 75, itaituba, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=vila+franca+do+campo%2Cpt&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 76, vila franca do campo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=belushya+guba%2Cru&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=barentsburg%2Csj&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mahebourg%2Cmu&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 77, mahebourg, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=vaini%2Cto&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 78, vaini, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=najran%2Csa&units=imperial HTTP/1.1" 200 441
+INFO:root: City Info: 79, najran, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kresek%2Cid&units=imperial HTTP/1.1" 200 432
+INFO:root: City Info: 80, kresek, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=castro%2Ccl&units=imperial HTTP/1.1" 200 473
+INFO:root: City Info: 81, castro, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=carnarvon%2Cau&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 82, carnarvon, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=muros%2Ces&units=imperial HTTP/1.1" 200 442
+INFO:root: City Info: 83, muros, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=provideniya%2Cru&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 84, provideniya, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=phan+rang%2Cvn&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kruisfontein%2Cza&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 85, kruisfontein, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=illoqqortoormiut%2Cgl&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=olafsvik%2Cis&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=liuhe%2Ccn&units=imperial HTTP/1.1" 200 445
+INFO:root: City Info: 86, liuhe, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=san+patricio%2Cmx&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 87, san patricio, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bethel%2Cus&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 88, bethel, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=pimenta+bueno%2Cbr&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 89, pimenta bueno, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=avarua%2Cck&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 90, avarua, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=cap+malheureux%2Cmu&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 91, cap malheureux, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=beringovskiy%2Cru&units=imperial HTTP/1.1" 200 466
+INFO:root: City Info: 92, beringovskiy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=alghero%2Cit&units=imperial HTTP/1.1" 200 428
+INFO:root: City Info: 93, alghero, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=gudari%2Cin&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 94, gudari, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kabalo%2Ccd&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 95, kabalo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=otane%2Cnz&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 96, otane, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=alofi%2Cnu&units=imperial HTTP/1.1" 200 423
+INFO:root: City Info: 97, alofi, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sisimiut%2Cgl&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 98, sisimiut, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tartagal%2Car&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 99, tartagal, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ilulissat%2Cgl&units=imperial HTTP/1.1" 200 431
+INFO:root: City Info: 100, ilulissat, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=nueva+italia+de+ruiz%2Cmx&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 101, nueva italia de ruiz, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hermanus%2Cza&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 102, hermanus, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=buraydah%2Csa&units=imperial HTTP/1.1" 200 443
+INFO:root: City Info: 103, buraydah, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kapaa%2Cus&units=imperial HTTP/1.1" 200 447
+INFO:root: City Info: 104, kapaa, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=chokurdakh%2Cru&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 105, chokurdakh, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=beyneu%2Ckz&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 106, beyneu, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=koslan%2Cru&units=imperial HTTP/1.1" 200 466
+INFO:root: City Info: 107, koslan, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=los+llanos+de+aridane%2Ces&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 108, los llanos de aridane, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=henties+bay%2Cna&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 109, henties bay, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=grimari%2Ccf&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sulangan%2Cph&units=imperial HTTP/1.1" 200 465
+INFO:root: City Info: 110, sulangan, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bowen%2Cau&units=imperial HTTP/1.1" 200 433
+INFO:root: City Info: 111, bowen, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=maluay%2Cph&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=nipawin%2Cca&units=imperial HTTP/1.1" 200 436
+INFO:root: City Info: 112, nipawin, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=new+norfolk%2Cau&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 113, new norfolk, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=raleigh%2Cus&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 114, raleigh, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=rocha%2Cuy&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 115, rocha, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=saint-pierre%2Cpm&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 116, saint-pierre, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=karpathos%2Cgr&units=imperial HTTP/1.1" 200 422
+INFO:root: City Info: 117, karpathos, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=palmer%2Cus&units=imperial HTTP/1.1" 200 439
+INFO:root: City Info: 118, palmer, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=luwuk%2Cid&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 119, luwuk, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ahipara%2Cnz&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 120, ahipara, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tiksi%2Cru&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 121, tiksi, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=utiroa%2Cki&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=okha%2Cru&units=imperial HTTP/1.1" 200 472
+INFO:root: City Info: 122, okha, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=klaksvik%2Cfo&units=imperial HTTP/1.1" 200 424
+INFO:root: City Info: 123, klaksvik, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=zhigansk%2Cru&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 124, zhigansk, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=nha+trang%2Cvn&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 125, nha trang, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=meulaboh%2Cid&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 126, meulaboh, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sur%2Com&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 127, sur, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=toda+bhim%2Cin&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=omsukchan%2Cru&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 128, omsukchan, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=haradok%2Cby&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 129, haradok, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=the+valley%2Cai&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 130, the valley, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=saint-augustin%2Cca&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 131, saint-augustin, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=miyakonojo%2Cjp&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 132, miyakonojo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=pangnirtung%2Cca&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 133, pangnirtung, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=victoria%2Csc&units=imperial HTTP/1.1" 200 441
+INFO:root: City Info: 134, victoria, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=plerin%2Cfr&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 135, plerin, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bertoua%2Ccm&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 136, bertoua, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=port+elizabeth%2Cza&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 137, port elizabeth, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=almaznyy%2Cru&units=imperial HTTP/1.1" 200 443
+INFO:root: City Info: 138, almaznyy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kieta%2Cpg&units=imperial HTTP/1.1" 200 475
+INFO:root: City Info: 139, kieta, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tumannyy%2Cru&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=valle+hermoso%2Cmx&units=imperial HTTP/1.1" 200 437
+INFO:root: City Info: 140, valle hermoso, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=saint-georges%2Cgf&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=grand+river+south+east%2Cmu&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=waingapu%2Cid&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 141, waingapu, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=attawapiskat%2Cca&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=pacific+grove%2Cus&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 142, pacific grove, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=fukue%2Cjp&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 143, fukue, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=koumac%2Cnc&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 144, koumac, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=palauig%2Cph&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 145, palauig, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=naze%2Cjp&units=imperial HTTP/1.1" 200 473
+INFO:root: City Info: 146, naze, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=srandakan%2Cid&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 147, srandakan, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=zhuhai%2Ccn&units=imperial HTTP/1.1" 200 438
+INFO:root: City Info: 148, zhuhai, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=shimoda%2Cjp&units=imperial HTTP/1.1" 200 476
+INFO:root: City Info: 149, shimoda, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=conceicao+do+araguaia%2Cbr&units=imperial HTTP/1.1" 200 469
+INFO:root: City Info: 150, conceicao do araguaia, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=fort-shevchenko%2Ckz&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 151, fort-shevchenko, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ibra%2Com&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 152, ibra, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hami%2Ccn&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 153, hami, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=dunkirk%2Cus&units=imperial HTTP/1.1" 200 443
+INFO:root: City Info: 154, dunkirk, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=padang%2Cid&units=imperial HTTP/1.1" 200 477
+INFO:root: City Info: 155, padang, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=polis%2Ccy&units=imperial HTTP/1.1" 200 438
+INFO:root: City Info: 156, polis, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hithadhoo%2Cmv&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 157, hithadhoo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=candido+mendes%2Cbr&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 158, candido mendes, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=banda+aceh%2Cid&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 159, banda aceh, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=quelimane%2Cmz&units=imperial HTTP/1.1" 200 443
+INFO:root: City Info: 160, quelimane, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=muyezerskiy%2Cru&units=imperial HTTP/1.1" 200 473
+INFO:root: City Info: 161, muyezerskiy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=san+juan%2Cus&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 162, san juan, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=xiangdong%2Ccn&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=aldergrove%2Cca&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 163, aldergrove, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kodiak%2Cus&units=imperial HTTP/1.1" 200 445
+INFO:root: City Info: 164, kodiak, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=maragogi%2Cbr&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 165, maragogi, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=iquique%2Ccl&units=imperial HTTP/1.1" 200 438
+INFO:root: City Info: 166, iquique, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kutum%2Csd&units=imperial HTTP/1.1" 200 445
+INFO:root: City Info: 167, kutum, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=saldanha%2Cza&units=imperial HTTP/1.1" 200 422
+INFO:root: City Info: 168, saldanha, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=baykit%2Cru&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 169, baykit, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=umzimvubu%2Cza&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=aksu%2Ccn&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 170, aksu, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=inta%2Cru&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 171, inta, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=petropavlovsk-kamchatskiy%2Cru&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 172, petropavlovsk-kamchatskiy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hokitika%2Cnz&units=imperial HTTP/1.1" 200 480
+INFO:root: City Info: 173, hokitika, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=taburao%2Cki&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=yellowknife%2Cca&units=imperial HTTP/1.1" 200 464
+INFO:root: City Info: 174, yellowknife, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=jiuquan%2Ccn&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 175, jiuquan, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=salinopolis%2Cbr&units=imperial HTTP/1.1" 200 464
+INFO:root: City Info: 176, salinopolis, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=komsomolskiy%2Cru&units=imperial HTTP/1.1" 200 478
+INFO:root: City Info: 177, komsomolskiy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=isangel%2Cvu&units=imperial HTTP/1.1" 200 465
+INFO:root: City Info: 178, isangel, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mount+isa%2Cau&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 179, mount isa, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=puerto+escondido%2Cmx&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 180, puerto escondido, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=paamiut%2Cgl&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 181, paamiut, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=torbay%2Cca&units=imperial HTTP/1.1" 200 437
+INFO:root: City Info: 182, torbay, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=zhob%2Cpk&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 183, zhob, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=lobito%2Cao&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 184, lobito, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=havoysund%2Cno&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 185, havoysund, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sorong%2Cid&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 186, sorong, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=villa+maria%2Car&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 187, villa maria, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=fort+nelson%2Cca&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 188, fort nelson, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sorvag%2Cfo&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hasaki%2Cjp&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 189, hasaki, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=breves%2Cbr&units=imperial HTTP/1.1" 200 475
+INFO:root: City Info: 190, breves, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=georgetown%2Csh&units=imperial HTTP/1.1" 200 466
+INFO:root: City Info: 191, georgetown, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=borba%2Cbr&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 192, borba, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=shellbrook%2Cca&units=imperial HTTP/1.1" 200 514
+INFO:root: City Info: 193, shellbrook, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mastic+beach%2Cus&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 194, mastic beach, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=aripuana%2Cbr&units=imperial HTTP/1.1" 200 475
+INFO:root: City Info: 195, aripuana, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=coahuayana%2Cmx&units=imperial HTTP/1.1" 200 476
+INFO:root: City Info: 196, coahuayana, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=gao%2Cml&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 197, gao, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=andilamena%2Cmg&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 198, andilamena, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=namtsy%2Cru&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 199, namtsy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tuktoyaktuk%2Cca&units=imperial HTTP/1.1" 200 445
+INFO:root: City Info: 200, tuktoyaktuk, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=calderitas%2Cmx&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 201, calderitas, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=asau%2Ctv&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tasiilaq%2Cgl&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 202, tasiilaq, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tuy+hoa%2Cvn&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 203, tuy hoa, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hanmer+springs%2Cnz&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 204, hanmer springs, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=cockburn+harbour%2Ctc&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=vaitupu%2Cwf&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kaeo%2Cnz&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 205, kaeo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=batetskiy%2Cru&units=imperial HTTP/1.1" 200 472
+INFO:root: City Info: 206, batetskiy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kurumkan%2Cru&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 207, kurumkan, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=walvis+bay%2Cna&units=imperial HTTP/1.1" 200 424
+INFO:root: City Info: 208, walvis bay, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=goirle%2Cnl&units=imperial HTTP/1.1" 200 530
+INFO:root: City Info: 209, goirle, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=guerrero+negro%2Cmx&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 210, guerrero negro, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ust-nera%2Cru&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 211, ust-nera, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hare+bay%2Cca&units=imperial HTTP/1.1" 200 463
+INFO:root: City Info: 212, hare bay, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=gogrial%2Csd&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=dingle%2Cie&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 213, dingle, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sal+rei%2Ccv&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 214, sal rei, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=alice+springs%2Cau&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 215, alice springs, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=zaysan%2Ckz&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 216, zaysan, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=papar%2Cmy&units=imperial HTTP/1.1" 200 433
+INFO:root: City Info: 217, papar, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=copiapo%2Ccl&units=imperial HTTP/1.1" 200 442
+INFO:root: City Info: 218, copiapo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=itarema%2Cbr&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 219, itarema, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=uhlove%2Cua&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 220, uhlove, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=nabire%2Cid&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 221, nabire, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=luderitz%2Cna&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 222, luderitz, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mezen%2Cru&units=imperial HTTP/1.1" 200 468
+INFO:root: City Info: 223, mezen, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=pierre%2Cus&units=imperial HTTP/1.1" 200 432
+INFO:root: City Info: 224, pierre, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=barkhan%2Cpk&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 225, barkhan, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=suoyarvi%2Cru&units=imperial HTTP/1.1" 200 471
+INFO:root: City Info: 226, suoyarvi, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=atambua%2Cid&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 227, atambua, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=saint-joseph%2Cre&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 228, saint-joseph, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=viligili%2Cmv&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=north+myrtle+beach%2Cus&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 229, north myrtle beach, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mnogovershinnyy%2Cru&units=imperial HTTP/1.1" 200 463
+INFO:root: City Info: 230, mnogovershinnyy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sao+gabriel+da+cachoeira%2Cbr&units=imperial HTTP/1.1" 200 486
+INFO:root: City Info: 231, sao gabriel da cachoeira, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=qaqortoq%2Cgl&units=imperial HTTP/1.1" 200 443
+INFO:root: City Info: 232, qaqortoq, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=geraldton%2Cau&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 233, geraldton, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=pundaguitan%2Cph&units=imperial HTTP/1.1" 200 463
+INFO:root: City Info: 234, pundaguitan, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=blind+river%2Cca&units=imperial HTTP/1.1" 200 463
+INFO:root: City Info: 235, blind river, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tigil%2Cru&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 236, tigil, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mao%2Ctd&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 237, mao, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kargapolye%2Cru&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=yumen%2Ccn&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 238, yumen, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=jabiru%2Cau&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sattahip%2Cth&units=imperial HTTP/1.1" 200 436
+INFO:root: City Info: 239, sattahip, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ancud%2Ccl&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 240, ancud, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=chimoio%2Cmz&units=imperial HTTP/1.1" 200 440
+INFO:root: City Info: 241, chimoio, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mitsamiouli%2Ckm&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 242, mitsamiouli, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tungkang%2Ctw&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=talnakh%2Cru&units=imperial HTTP/1.1" 200 472
+INFO:root: City Info: 243, talnakh, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bengkulu%2Cid&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=avera%2Cpf&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=vila+velha%2Cbr&units=imperial HTTP/1.1" 200 442
+INFO:root: City Info: 244, vila velha, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ypsonas%2Ccy&units=imperial HTTP/1.1" 200 439
+INFO:root: City Info: 245, ypsonas, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kavieng%2Cpg&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 246, kavieng, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=paraiso%2Cmx&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 247, paraiso, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=gerede%2Ctr&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 248, gerede, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=grindavik%2Cis&units=imperial HTTP/1.1" 200 445
+INFO:root: City Info: 249, grindavik, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kloulklubed%2Cpw&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 250, kloulklubed, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=marawi%2Csd&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 251, marawi, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=valparaiso%2Ccl&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 252, valparaiso, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mys+shmidta%2Cru&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hualmay%2Cpe&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 253, hualmay, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mehamn%2Cno&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 254, mehamn, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=launceston%2Cau&units=imperial HTTP/1.1" 200 438
+INFO:root: City Info: 255, launceston, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=nanortalik%2Cgl&units=imperial HTTP/1.1" 200 475
+INFO:root: City Info: 256, nanortalik, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kaniama%2Ccd&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 257, kaniama, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=gisborne%2Cnz&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 258, gisborne, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=belmonte%2Cbr&units=imperial HTTP/1.1" 200 478
+INFO:root: City Info: 259, belmonte, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=inirida%2Cco&units=imperial HTTP/1.1" 200 472
+INFO:root: City Info: 260, inirida, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=chute-aux-outardes%2Cca&units=imperial HTTP/1.1" 200 473
+INFO:root: City Info: 261, chute-aux-outardes, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sarangani%2Cph&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 262, sarangani, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=carutapera%2Cbr&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 263, carutapera, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=vylgort%2Cru&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=lolua%2Ctv&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=aleksandro-nevskiy%2Cru&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 264, aleksandro-nevskiy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=yerbogachen%2Cru&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 265, yerbogachen, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=marsh+harbour%2Cbs&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 266, marsh harbour, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=outjo%2Cna&units=imperial HTTP/1.1" 200 426
+INFO:root: City Info: 267, outjo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=roald%2Cno&units=imperial HTTP/1.1" 200 438
+INFO:root: City Info: 268, roald, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=merauke%2Cid&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 269, merauke, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sturgeon+falls%2Cca&units=imperial HTTP/1.1" 200 463
+INFO:root: City Info: 270, sturgeon falls, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=vanderhoof%2Cca&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 271, vanderhoof, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=port+hedland%2Cau&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 272, port hedland, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sao+filipe%2Ccv&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 273, sao filipe, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=caravelas%2Cbr&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 274, caravelas, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tazovskiy%2Cru&units=imperial HTTP/1.1" 200 471
+INFO:root: City Info: 275, tazovskiy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=jawa%2Cjo&units=imperial HTTP/1.1" 200 435
+INFO:root: City Info: 276, jawa, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=broken+hill%2Cau&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 277, broken hill, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=satitoa%2Cws&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=carauari%2Cbr&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 278, carauari, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ndioum%2Csn&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 279, ndioum, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=severo-kurilsk%2Cru&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 280, severo-kurilsk, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=iqaluit%2Cca&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 281, iqaluit, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tucupita%2Cve&units=imperial HTTP/1.1" 200 475
+INFO:root: City Info: 282, tucupita, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=lorengau%2Cpg&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 283, lorengau, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bernalillo%2Cus&units=imperial HTTP/1.1" 200 445
+INFO:root: City Info: 284, bernalillo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ahuimanu%2Cus&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 285, ahuimanu, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=daru%2Cpg&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 286, daru, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bonthe%2Csl&units=imperial HTTP/1.1" 200 482
+INFO:root: City Info: 287, bonthe, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=great+yarmouth%2Cgb&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 288, great yarmouth, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ambilobe%2Cmg&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 289, ambilobe, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=souillac%2Cmu&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 290, souillac, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=wahran%2Cdz&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=abu+samrah%2Cqa&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=airai%2Cpw&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mayumba%2Cga&units=imperial HTTP/1.1" 200 473
+INFO:root: City Info: 291, mayumba, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=fairbanks%2Cus&units=imperial HTTP/1.1" 200 463
+INFO:root: City Info: 292, fairbanks, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hede%2Ccn&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 293, hede, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=partyzany%2Cua&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 294, partyzany, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tamandare%2Cbr&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 295, tamandare, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bloemfontein%2Cza&units=imperial HTTP/1.1" 200 445
+INFO:root: City Info: 296, bloemfontein, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=lulea%2Cse&units=imperial HTTP/1.1" 200 436
+INFO:root: City Info: 297, lulea, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=zhangjiakou%2Ccn&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 298, zhangjiakou, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ipora%2Cbr&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=miraflores%2Cco&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 299, miraflores, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=vanavara%2Cru&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 300, vanavara, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=grand+gaube%2Cmu&units=imperial HTTP/1.1" 200 447
+INFO:root: City Info: 301, grand gaube, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kuche%2Ccn&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=harrismith%2Cza&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 302, harrismith, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=port+augusta%2Cau&units=imperial HTTP/1.1" 200 445
+INFO:root: City Info: 303, port augusta, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=zalesovo%2Cru&units=imperial HTTP/1.1" 200 470
+INFO:root: City Info: 304, zalesovo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kahului%2Cus&units=imperial HTTP/1.1" 200 443
+INFO:root: City Info: 305, kahului, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=east+london%2Cza&units=imperial HTTP/1.1" 200 439
+INFO:root: City Info: 306, east london, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=katobu%2Cid&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 307, katobu, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=yakeshi%2Ccn&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 308, yakeshi, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kenai%2Cus&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 309, kenai, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=jambi%2Cid&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 310, jambi, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ostrovnoy%2Cru&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 311, ostrovnoy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mapastepec%2Cmx&units=imperial HTTP/1.1" 200 475
+INFO:root: City Info: 312, mapastepec, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=krasnaya+gora%2Cru&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 313, krasnaya gora, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bilma%2Cne&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 314, bilma, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=rawson%2Car&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 315, rawson, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=malumfashi%2Cng&units=imperial HTTP/1.1" 200 473
+INFO:root: City Info: 316, malumfashi, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tautira%2Cpf&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 317, tautira, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=lebu%2Ccl&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 318, lebu, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=harper%2Clr&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 319, harper, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=calvinia%2Cza&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 320, calvinia, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=adre%2Ctd&units=imperial HTTP/1.1" 200 466
+INFO:root: City Info: 321, adre, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=wangqing%2Ccn&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 322, wangqing, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bilibino%2Cru&units=imperial HTTP/1.1" 200 473
+INFO:root: City Info: 323, bilibino, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=manavalakurichi%2Cin&units=imperial HTTP/1.1" 200 443
+INFO:root: City Info: 324, manavalakurichi, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=codrington%2Cag&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sentyabrskiy%2Cru&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=opuwo%2Cna&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 325, opuwo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=teknaf%2Cbd&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 326, teknaf, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=dunnville%2Cca&units=imperial HTTP/1.1" 200 441
+INFO:root: City Info: 327, dunnville, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=irece%2Cbr&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 328, irece, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=rongcheng%2Ccn&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 329, rongcheng, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=anadyr%2Cru&units=imperial HTTP/1.1" 200 445
+INFO:root: City Info: 330, anadyr, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=yurla%2Cru&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 331, yurla, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ystad%2Cse&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 332, ystad, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kondinskoye%2Cru&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 333, kondinskoye, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=matameye%2Cne&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mildura%2Cau&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 334, mildura, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=broome%2Cau&units=imperial HTTP/1.1" 200 432
+INFO:root: City Info: 335, broome, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=coihaique%2Ccl&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 336, coihaique, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=inderborskiy%2Ckz&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=narsaq%2Cgl&units=imperial HTTP/1.1" 200 441
+INFO:root: City Info: 337, narsaq, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=nuuk%2Cgl&units=imperial HTTP/1.1" 200 420
+INFO:root: City Info: 338, nuuk, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ransang%2Cph&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 339, ransang, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=port+blair%2Cin&units=imperial HTTP/1.1" 200 478
+INFO:root: City Info: 340, port blair, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=skagastrond%2Cis&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=winnemucca%2Cus&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 341, winnemucca, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hansot%2Cin&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 342, hansot, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=manaure%2Cco&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 343, manaure, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=college%2Cus&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 344, college, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=nemuro%2Cjp&units=imperial HTTP/1.1" 200 475
+INFO:root: City Info: 345, nemuro, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=yar-sale%2Cru&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 346, yar-sale, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=taraz%2Ckz&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 347, taraz, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hashtrud%2Cir&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 348, hashtrud, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=shache%2Ccn&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 349, shache, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=pevek%2Cru&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 350, pevek, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=spetsai%2Cgr&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kelvington%2Cca&units=imperial HTTP/1.1" 200 463
+INFO:root: City Info: 351, kelvington, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=nizhneyansk%2Cru&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=faya%2Ctd&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=cacoal%2Cbr&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 352, cacoal, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=luanda%2Cao&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 353, luanda, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=san+buenaventura%2Cmx&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 354, san buenaventura, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=khartoum%2Csd&units=imperial HTTP/1.1" 200 432
+INFO:root: City Info: 355, khartoum, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=lucea%2Cjm&units=imperial HTTP/1.1" 200 441
+INFO:root: City Info: 356, lucea, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=aden%2Cye&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 357, aden, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=charleston%2Cus&units=imperial HTTP/1.1" 200 583
+INFO:root: City Info: 358, charleston, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=amol%2Cir&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 359, amol, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=katangli%2Cru&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 360, katangli, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=carballo%2Ces&units=imperial HTTP/1.1" 200 512
+INFO:root: City Info: 361, carballo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tabory%2Cru&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 362, tabory, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=matamoros%2Cmx&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 363, matamoros, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=eston%2Cca&units=imperial HTTP/1.1" 200 424
+INFO:root: City Info: 364, eston, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=slavuta%2Cua&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 365, slavuta, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=octeville%2Cfr&units=imperial HTTP/1.1" 200 449
+INFO:root: City Info: 366, octeville, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=orange%2Cau&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 367, orange, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=santa+marta%2Cco&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 368, santa marta, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kostino%2Cru&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 369, kostino, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bathsheba%2Cbb&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 370, bathsheba, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=nenjiang%2Ccn&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 371, nenjiang, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=saleaula%2Cws&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=katsuura%2Cjp&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 372, katsuura, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sao+joao+da+barra%2Cbr&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 373, sao joao da barra, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kiruna%2Cse&units=imperial HTTP/1.1" 200 436
+INFO:root: City Info: 374, kiruna, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=port+lincoln%2Cau&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 375, port lincoln, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mumford%2Cgh&units=imperial HTTP/1.1" 200 472
+INFO:root: City Info: 376, mumford, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=baghdad%2Ciq&units=imperial HTTP/1.1" 200 436
+INFO:root: City Info: 377, baghdad, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=swan+hill%2Cau&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 378, swan hill, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=teluk+nibung%2Cid&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kargasok%2Cru&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 379, kargasok, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mangai%2Ccd&units=imperial HTTP/1.1" 200 471
+INFO:root: City Info: 380, mangai, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=taurage%2Clt&units=imperial HTTP/1.1" 200 471
+INFO:root: City Info: 381, taurage, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=along%2Cin&units=imperial HTTP/1.1" 200 472
+INFO:root: City Info: 382, along, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=lodja%2Ccd&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 383, lodja, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=gushikawa%2Cjp&units=imperial HTTP/1.1" 200 445
+INFO:root: City Info: 384, gushikawa, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=lompoc%2Cus&units=imperial HTTP/1.1" 200 439
+INFO:root: City Info: 385, lompoc, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=matamba%2Ctz&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 386, matamba, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=seminole%2Cus&units=imperial HTTP/1.1" 200 447
+INFO:root: City Info: 387, seminole, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=matara%2Clk&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 388, matara, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tura%2Cru&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 389, tura, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=xingyi%2Ccn&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 390, xingyi, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=aklavik%2Cca&units=imperial HTTP/1.1" 200 443
+INFO:root: City Info: 391, aklavik, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=teguise%2Ces&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 392, teguise, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=lasa%2Ccn&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=vao%2Cnc&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 393, vao, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=yeppoon%2Cau&units=imperial HTTP/1.1" 200 440
+INFO:root: City Info: 394, yeppoon, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=wanlaweyn%2Cso&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 395, wanlaweyn, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=naberera%2Ctz&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 396, naberera, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=necochea%2Car&units=imperial HTTP/1.1" 200 463
+INFO:root: City Info: 397, necochea, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=giussano%2Cit&units=imperial HTTP/1.1" 200 443
+INFO:root: City Info: 398, giussano, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=komsomolets%2Ckz&units=imperial HTTP/1.1" 200 447
+INFO:root: City Info: 399, komsomolets, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sobolevo%2Cru&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 400, sobolevo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=longyearbyen%2Csj&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 401, longyearbyen, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tam+ky%2Cvn&units=imperial HTTP/1.1" 200 432
+INFO:root: City Info: 402, tam ky, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sai+buri%2Cth&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 403, sai buri, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=manadhoo%2Cmv&units=imperial HTTP/1.1" 200 475
+INFO:root: City Info: 404, manadhoo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=nioro%2Cml&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=guanay%2Cbo&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 405, guanay, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tacuarembo%2Cuy&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 406, tacuarembo, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=rivera%2Cco&units=imperial HTTP/1.1" 200 445
+INFO:root: City Info: 407, rivera, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=westpunt%2Can&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=masterton%2Cnz&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 408, masterton, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mayor+pablo+lagerenza%2Cpy&units=imperial HTTP/1.1" 200 467
+INFO:root: City Info: 409, mayor pablo lagerenza, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=jining%2Ccn&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 410, jining, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=dera+bugti%2Cpk&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 411, dera bugti, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=krasna+lipa%2Ccz&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 412, krasna lipa, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=san+andres%2Cco&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 413, san andres, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=stoyba%2Cru&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=barra+do+bugres%2Cbr&units=imperial HTTP/1.1" 200 469
+INFO:root: City Info: 414, barra do bugres, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=boca+do+acre%2Cbr&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 415, boca do acre, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sakakah%2Csa&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=eidfjord%2Cno&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 416, eidfjord, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ixtapa%2Cmx&units=imperial HTTP/1.1" 200 443
+INFO:root: City Info: 417, ixtapa, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=saint+george%2Cbm&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 418, saint george, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bud%2Cno&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 419, bud, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hambantota%2Clk&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 420, hambantota, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=stepnyak%2Ckz&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 421, stepnyak, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=booue%2Cga&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 422, booue, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tilichiki%2Cru&units=imperial HTTP/1.1" 200 463
+INFO:root: City Info: 423, tilichiki, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mananjary%2Cmg&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 424, mananjary, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=takanosu%2Cjp&units=imperial HTTP/1.1" 200 460
+INFO:root: City Info: 425, takanosu, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=flin+flon%2Cca&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 426, flin flon, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=doctor+pedro+p.+pena%2Cpy&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=cabo+san+lucas%2Cmx&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 427, cabo san lucas, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kamennogorsk%2Cru&units=imperial HTTP/1.1" 200 443
+INFO:root: City Info: 428, kamennogorsk, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tuljapur%2Cin&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 429, tuljapur, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=amuntai%2Cid&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 430, amuntai, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=robertsport%2Clr&units=imperial HTTP/1.1" 200 475
+INFO:root: City Info: 431, robertsport, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=la+ronge%2Cca&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 432, la ronge, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=cananeia%2Cbr&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 433, cananeia, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=raga%2Csd&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bakchar%2Cru&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 434, bakchar, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=atar%2Cmr&units=imperial HTTP/1.1" 200 451
+INFO:root: City Info: 435, atar, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hastings%2Cus&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 436, hastings, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=barawe%2Cso&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ukiah%2Cus&units=imperial HTTP/1.1" 200 440
+INFO:root: City Info: 437, ukiah, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=victoria+point%2Cau&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 438, victoria point, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=jujuy%2Car&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=pimentel%2Cpe&units=imperial HTTP/1.1" 200 442
+INFO:root: City Info: 439, pimentel, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bay+roberts%2Cca&units=imperial HTTP/1.1" 200 442
+INFO:root: City Info: 440, bay roberts, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tahe%2Ccn&units=imperial HTTP/1.1" 200 448
+INFO:root: City Info: 441, tahe, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tarnogskiy+gorodok%2Cru&units=imperial HTTP/1.1" 200 482
+INFO:root: City Info: 442, tarnogskiy gorodok, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ternate%2Cid&units=imperial HTTP/1.1" 200 471
+INFO:root: City Info: 443, ternate, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=faanui%2Cpf&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 444, faanui, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=palabuhanratu%2Cid&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=srednekolymsk%2Cru&units=imperial HTTP/1.1" 200 467
+INFO:root: City Info: 445, srednekolymsk, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=barra+patuca%2Chn&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 446, barra patuca, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=antalaha%2Cmg&units=imperial HTTP/1.1" 200 458
+INFO:root: City Info: 447, antalaha, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=yulara%2Cau&units=imperial HTTP/1.1" 200 440
+INFO:root: City Info: 448, yulara, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=golaghat%2Cin&units=imperial HTTP/1.1" 200 470
+INFO:root: City Info: 449, golaghat, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sept-iles%2Cca&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 450, sept-iles, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=dupnica%2Cbg&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sambava%2Cmg&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 451, sambava, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=olden%2Cno&units=imperial HTTP/1.1" 200 438
+INFO:root: City Info: 452, olden, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=cockburn+town%2Ctc&units=imperial HTTP/1.1" 200 456
+INFO:root: City Info: 453, cockburn town, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=whitianga%2Cnz&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 454, whitianga, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=araouane%2Cml&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 455, araouane, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=prince+rupert%2Cca&units=imperial HTTP/1.1" 200 507
+INFO:root: City Info: 456, prince rupert, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tabou%2Cci&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 457, tabou, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=aswan%2Ceg&units=imperial HTTP/1.1" 200 447
+INFO:root: City Info: 458, aswan, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tamisan%2Cph&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 459, tamisan, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=porto+seguro%2Cbr&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 460, porto seguro, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mavrovi+anovi%2Cmk&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 461, mavrovi anovi, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=byron+bay%2Cau&units=imperial HTTP/1.1" 200 464
+INFO:root: City Info: 462, byron bay, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=priargunsk%2Cru&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 463, priargunsk, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=turukhansk%2Cru&units=imperial HTTP/1.1" 200 475
+INFO:root: City Info: 464, turukhansk, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=krasnoselkup%2Cru&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kiunga%2Cpg&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 465, kiunga, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sarakhs%2Cir&units=imperial HTTP/1.1" 200 421
+INFO:root: City Info: 466, sarakhs, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=faranah%2Cgn&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 467, faranah, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=wicklow%2Cie&units=imperial HTTP/1.1" 200 440
+INFO:root: City Info: 468, wicklow, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=vilhena%2Cbr&units=imperial HTTP/1.1" 200 442
+INFO:root: City Info: 469, vilhena, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=sechura%2Cpe&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 470, sechura, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=makakilo+city%2Cus&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 471, makakilo city, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=samusu%2Cws&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=luang+prabang%2Cla&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 472, luang prabang, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=angoram%2Cpg&units=imperial HTTP/1.1" 200 476
+INFO:root: City Info: 473, angoram, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=pedro+juan+caballero%2Cpy&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 474, pedro juan caballero, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=mirnyy%2Cru&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 475, mirnyy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=bull+savanna%2Cjm&units=imperial HTTP/1.1" 200 477
+INFO:root: City Info: 476, bull savanna, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=marsa+matruh%2Ceg&units=imperial HTTP/1.1" 200 452
+INFO:root: City Info: 477, marsa matruh, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=rungata%2Cki&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=karaul%2Cru&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=tornio%2Cfi&units=imperial HTTP/1.1" 200 430
+INFO:root: City Info: 478, tornio, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=barranca%2Cpe&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 479, barranca, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=jishou%2Ccn&units=imperial HTTP/1.1" 200 469
+INFO:root: City Info: 480, jishou, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hirara%2Cjp&units=imperial HTTP/1.1" 200 462
+INFO:root: City Info: 481, hirara, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=ciudad+bolivar%2Cve&units=imperial HTTP/1.1" 200 477
+INFO:root: City Info: 482, ciudad bolivar, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=erzin%2Cru&units=imperial HTTP/1.1" 200 469
+INFO:root: City Info: 483, erzin, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kurilsk%2Cru&units=imperial HTTP/1.1" 200 476
+INFO:root: City Info: 484, kurilsk, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=te+anau%2Cnz&units=imperial HTTP/1.1" 200 475
+INFO:root: City Info: 485, te anau, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=san+quintin%2Cmx&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=buta%2Ccd&units=imperial HTTP/1.1" 200 446
+INFO:root: City Info: 486, buta, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kinablangan%2Cph&units=imperial HTTP/1.1" 200 455
+INFO:root: City Info: 487, kinablangan, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=rapid+valley%2Cus&units=imperial HTTP/1.1" 200 443
+INFO:root: City Info: 488, rapid valley, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=williston%2Cus&units=imperial HTTP/1.1" 200 453
+INFO:root: City Info: 489, williston, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=emerald%2Cau&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 490, emerald, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=maarianhamina%2Cfi&units=imperial HTTP/1.1" 404 40
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=kailua%2Cus&units=imperial HTTP/1.1" 200 444
+INFO:root: City Info: 491, kailua, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=wajima%2Cjp&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 492, wajima, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=healdsburg%2Cus&units=imperial HTTP/1.1" 200 450
+INFO:root: City Info: 493, healdsburg, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=noumea%2Cnc&units=imperial HTTP/1.1" 200 430
+INFO:root: City Info: 494, noumea, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=alyangula%2Cau&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 495, alyangula, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=deputatskiy%2Cru&units=imperial HTTP/1.1" 200 459
+INFO:root: City Info: 496, deputatskiy, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=dole%2Cfr&units=imperial HTTP/1.1" 200 454
+INFO:root: City Info: 497, dole, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=rehoboth%2Cna&units=imperial HTTP/1.1" 200 457
+INFO:root: City Info: 498, rehoboth, requested URL: weather_response
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=3be3b67cc390dc727baad817a3e5bde9&q=hongjiang%2Ccn&units=imperial HTTP/1.1" 200 461
+INFO:root: City Info: 499, hongjiang, requested URL: weather_response
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/fullguest/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=bold:stretch=normal:size=16.0 to DejaVu Sans ('/Users/fullguest/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf') with score of 0.000000
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=bold:stretch=normal:size=18.0 to DejaVu Sans ('/Users/fullguest/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf') with score of 0.000000
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=bold:stretch=normal:size=24.0 to DejaVu Sans ('/Users/fullguest/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf') with score of 0.000000
